@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Hospital in-Patient Diagnosis
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Alina
+    family-names: Imtiaz
+    email: alina.imtiaz@uni-potsdam.de
+repository-code: >-
+  https://gitup.uni-potsdam.de/imtiaz/hospital-patients-project/-/tree/main
+url: >-
+  https://gitup.uni-potsdam.de/imtiaz/hospital-patients-project/
+abstract: >-
+  In this project, we perform an Exploratory Data analysis
+  (EDA) on a dataset of hospital in-patients, focusing
+  specifically on the initial diagnosis of diseases recorded
+  from the years 2018 to 2022. 
+keywords:
+  - exploratory data analysis
+  - categorical data
+  - numerical data
+  - visualisation
+  - overview
+license: MIT
+commit: '10001'
+version: v1.0
+date-released: '2024-05-12'

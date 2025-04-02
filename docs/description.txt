@@ -1,0 +1,13 @@
+Dataset Description
+The hospital dataset focuses on medical records of patients from 16 different regions of Germany categorized by their, place of residence. The dataset covers data starting rom the ear 2018 to 2022, consisting information on patients diagnosed with various diseases. These diagnosis are classified into nine different types of diseases, covering a wide range of medical conditions. Furthermore, the dataset is segmented by gender, distinguishing between male, female and combined genders. Additionally, patient data is distributed by age groups ranging from 0 to 90 years consisiting the information about the average length of stay at the hospital. The categorical variables include diagnosis, place of residence, gender, and year while the different age groups ranging from 0 to 90 years are numerically distributed. The dataset contains 2160 entries overall.
+
+Research Questions:
+
+The research questions are:
+
+1. How does the prevalence of diseases vary between male and female? 
+
+2. What are the most common diseases diagnosed among patients in different age groups? Is there any significant difference in the average length of stay at the hospital across different age groups?
+
+3. Are there any notable trends or changes in disease prevalence over the five-year period from 2018 to 2022?
+
