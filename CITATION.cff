@@ -5,23 +5,22 @@ type: software
 authors:
   - given-names: Alina
     family-names: Imtiaz
-    email: alina.imtiaz@uni-potsdam.de
+    email: alinaimtiaz097@gmail.com
 repository-code: >-
-  https://gitup.uni-potsdam.de/imtiaz/hospital-patients-project/-/tree/main
+  https://github.com/AlinaImtiaz018/Hospital-In-patient-Diagnosis/tree/main
 url: >-
-  https://gitup.uni-potsdam.de/imtiaz/hospital-patients-project/
+  https://github.com/AlinaImtiaz018/Hospital-In-patient-Diagnosis
 abstract: >-
-  In this project, we perform an Exploratory Data analysis
+  In this project, I perform an Exploratory Data analysis
   (EDA) on a dataset of hospital in-patients, focusing
   specifically on the initial diagnosis of diseases recorded
   from the years 2018 to 2022. 
 keywords:
   - exploratory data analysis
+  - eda
   - categorical data
   - numerical data
-  - visualisation
-  - overview
+  - visualization
 license: MIT
-commit: '10001'
 version: v1.0
 date-released: '2024-05-12'
