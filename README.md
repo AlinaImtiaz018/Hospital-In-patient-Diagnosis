@@ -139,19 +139,6 @@ The project attempts to answer the following research questions:
 
 ---
 
-# Technologies Used
-
-* Python
-* Jupyter Notebook
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* Scikit-learn
-
----
-
 # Repository Structure
 
 ```bash
